@@ -15,8 +15,18 @@ Click on the table for more information:
 ![](images/2013GSSPs.jpg)
 
 ### Contact Us
-**Michael Streng**  
-Uppsala University  
+**Secretariate:**  
+Per Ahlberg  
+Department of Geology  
+GeoBiosphere Science Centre  
+Lund University  
+Lund, Sweden  
+<per.ahlberg@geol.lu.se>
+
+
+**Webmaster:**  
+Michael Streng  
 Department of Earth Sciences  
-Sweden  
+Uppsala University  
+Uppsala, Sweden  
 <Michael.Streng@geo.uu.se>
