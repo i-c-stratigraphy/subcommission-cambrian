@@ -4,7 +4,7 @@ title: "Meetings"
 permalink: /meetings
 ---
 
-# Forthcoming Meetings
+# Meetings
 
 
 ## Forthcoming Meetings
