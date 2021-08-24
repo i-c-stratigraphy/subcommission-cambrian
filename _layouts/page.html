@@ -178,13 +178,13 @@
             document.getElementById("banner-img").src = banners[x];
         }
 
-        function startTimer() {
-            displayNextImage();
-            setInterval(displayNextImage, 5000);
-        }    
+        window.onload = function () {
+            document.getElementById('banner-img').src=banners[Math.floor(banners.length*Math.random())]; 
+            setInterval(displayNextImage, 5000); 
+        };            
     </script>    
 </head>
-<body onload = "startTimer()">
+<body>
     <div id="widther">
         <div id="header">
             <div style="text-align:right;">
