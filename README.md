@@ -15,11 +15,11 @@ This subcommission's website is hosted within the ICS's set of code repositories
 
 Setup:
 
-`jekyll new . --force`
+jekyll new . --force
 
 Running the site locally:
 
-`bundle exec jekyll serve`
+bundle exec jekyll serve
 
 to fix dependencies for Ruby 3: `bundle update` && `bundle install` then `bundle add webrick`
 

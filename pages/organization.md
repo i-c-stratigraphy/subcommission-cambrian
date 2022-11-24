@@ -6,24 +6,78 @@ permalink: /organization
 
 # Organization
 
-### Chair
-Loren E. Babcock  
-USA / Sweden  
-<babcockloren@gmail.com>
+## Executive
 
-### Vice-Chair
-Xingliang Zhang  
-China  
-<xzhang69@nwu.edu.cn>
+<style>
+    table.layout td {
+        vertical-align: top;
+    }
+</style>
+<table class="layout">
+    <tr>
+        <td>
+            <h3>Chair</h3>
+            <img src="images/person-paterson.jpg" alt="John Patterson" style="width:300px;" />  
+            <p>
+                <strong>John Paterson</strong><br />
+                <em>Professor of Earth Sciences</em><br />
+                Palaeoscience Research Centre<br />
+                School of Environmental & Rural Science<br />
+                University of New England<br />
+                Armidale, NSW 2351, Australia<br />
+                Tel: +61-2-6773-2101<br />
+                E-mail: <a href="jpater20@une.edu.au">jpater20@une.edu.au</a>
+            </p>
+        </td>
+        <td>
+            <h3>Vice Chair</h3>
+            <img src="images/person-creveling.jpg" alt="Jessica Creveling" style="width:300px;" />  
+            <p>
+                <strong>Jessica 'JC' Creveling</strong><br />
+                <em>Associate Professor of Geology</em><br />
+                College of Earth, Ocean, and Atmospheric Sciences<br />
+                Oregon State University<br />
+                101 SW 26th Street, Corvallis, Oregon, USA 97331<br />
+                E-mail: <a href="jessica.creveling@oregonstate.edu">jessica.creveling@oregonstate.edu</a>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Secretary</h3>
+            <img src="images/person-betts.jpg" alt="Marissa J Bett" style="width:300px;" />  
+            <p>
+                <strong>Marissa J Betts</strong><br />
+                <em>Research Fellow in Earth Sciences</em><br />
+                Palaeoscience Research Centre & Litholab (LLUNE)<br />
+                School of Environmental & Rural Science<br />
+                University of New England<br />
+                Armidale, NSW 2351, Australia<br />
+                Tel: +61-2-6773-1714<br />
+                E-mail: <a href="mbetts7@une.edu.au">mbetts7@une.edu.au</a>  
+            </p>
+        </td>
+        <td>
+            <p>        
+                <h3>Webmaster</h3>
+                <strong>Michael Streng</strong><br />
+                Uppsala University<br />
+                Department of Earth Sciences<br />
+                Palaeobiology Programme<br />
+                Villavägen 16<br />
+                752 36 Uppsala, Sweden<br />
+                <a href="Michael.Streng@geo.uu.se">Michael.Streng@geo.uu.se</a>
+            </p>
+        </td>
+    </tr>
+</table>
 
-### Secretary
-Per Ahlberg  
-Sweden  
-<per.ahlberg@geol.lu.se>
+
+## Members
 
 The ICSC has 24 Voting Members, 11 Honorary Members, and 83 Corresponding Members. The ISCS's voting members were selected to maintain a balance between regional experience and the expertise of various stratigraphic and paleontologic disciplines. Expertise is supplemented by corresponding members from individual countries or regions. Corresponding members are encouraged to communicate with ISCS working groups and the ISCS executive to actively participate in the development of a global stage-level chronostratigraphic classification of the Cambrian System.
 
-## Voting Members
+### Voting Members
 
 1. Per Ahlberg, Lund, Sweden.  <per.ahlberg@geol.lu.se>
 2. José-Javier Álvaro, Madrid, Spain. <alvarobjj@cab.inta-csic.es>, <jj.alvaro@csic.es>
@@ -50,7 +104,7 @@ The ICSC has 24 Voting Members, 11 Honorary Members, and 83 Corresponding Member
 23. Maoyan Zhu, Nanjing, China.  <myzhu@nigpas.ac.cn>
 24. Anna Żylińska, Warsaw, Poland.  <anna.zylinska@uw.edu.pl>
 
-## Honorary Members
+### Honorary Members
  
 **Dr. W. T. Chang**  
 Nanjing Institute of Geolology and Palaeontology, Academia Sinica, Chi-Ming-Ssu, 39 East Beijing Road, Nanjing 210008, P. R. China. E-mail: wtchang[at]juno.com.
