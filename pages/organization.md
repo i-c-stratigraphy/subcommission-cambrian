@@ -17,7 +17,7 @@ permalink: /organization
     <tr>
         <td>
             <h3>Chair</h3>
-            <img src="images/person-paterson.jpg" alt="John Patterson" style="width:300px;" />  
+            <img src="images/person-paterson.jpg" alt="John Patterson" />  
             <p>
                 <strong>John Paterson</strong><br />
                 <em>Professor of Earth Sciences</em><br />
@@ -31,7 +31,7 @@ permalink: /organization
         </td>
         <td>
             <h3>Vice Chair</h3>
-            <img src="images/person-creveling.jpg" alt="Jessica Creveling" style="width:300px;" />  
+            <img src="images/person-creveling.jpg" alt="Jessica Creveling" />  
             <p>
                 <strong>Jessica 'JC' Creveling</strong><br />
                 <em>Associate Professor of Geology</em><br />
@@ -45,7 +45,7 @@ permalink: /organization
     <tr>
         <td>
             <h3>Secretary</h3>
-            <img src="images/person-betts.jpg" alt="Marissa J Bett" style="width:300px;" />  
+            <img src="images/person-betts.jpg" alt="Marissa J Bett" />  
             <p>
                 <strong>Marissa J Betts</strong><br />
                 <em>Research Fellow in Earth Sciences</em><br />
