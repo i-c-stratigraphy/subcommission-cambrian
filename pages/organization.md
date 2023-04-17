@@ -79,30 +79,29 @@ The ICSC has 24 Voting Members, 11 Honorary Members, and 83 Corresponding Member
 
 ### Voting Members
 
-1. Per Ahlberg, Lund, Sweden.  <per.ahlberg@geol.lu.se>
-2. José-Javier Álvaro, Madrid, Spain. <alvarobjj@cab.inta-csic.es>, <jj.alvaro@csic.es>
-3. Loren E. Babcock, Columbus, USA; Lund, Sweden. <babcockloren@gmail.com>
-4. Gabriella Bagnoli, Pisa, Italy.  <bagnoli@dst.unipi.it>
-5. Glenn Brock, Sydney, Australia.  <glenn.brock@mq.edu.au>
-6. Olaf Elicki, Freiberg, Germany.  <elicki@geo.tu-freiberg.de>
-7. Gerd Geyer, Würzburg, Germany.  <gerd.geyer@mail.uni-wuerzburg.de>
-8. Rodolfo Gozalo, Valencia, Spain.  <rodolfo.gozalo@uv.es>
-9. Pierre D. Kruse, Adelaide, Australia.  <archaeo.kruse@gmail.com>
-10. Malgorzata Moczydlowska-Vidal, Uppsala, Sweden.  <malgo.vidal@pal.uu.se>
-11. Elena B. Naimark, Moscow, Russia.  <naimark@paleo.ru>
-12. Shanchi Peng, Nanjing, China.  <scpeng@nigpas.ac.cn>
-13. Tae-Yoon S. Park, Incheon, Republic of Korea. <typark@kopri.re.kr>
-14. Pavel Yu. Parkhaev, Moscow, Russia. <pparkh@paleo.ru>
-15. John R. Paterson, Armidale, Australia. <jpater20@une.edu.au>
-16. Brian R. Pratt, Saskatchewan, Canada.  <brian.pratt@usask.ca>
-17. Matthew R. Saltzman, Columbus, Ohio, USA.  <saltzman.11@osu.edu>
-18. Christian Skovsted, Stockholm, Sweden. <christian.skovsted@nrm.se>
-19. Michael Steiner, Berlin, Germany.  <michael.steiner@FU-Berlin.de>
-20. Alexey I. Varlamov, Moscow, Russia.  <varlamov@vnigni.ru>, <info@vnigni.ru>
-21. Mark Webster, Chicago, Illinois, USA.  <mwebster@geosci.uchicago.edu>
-22. Xingliang Zhang, Xi’an, China.  <xzhang69@nwu.edu.cn>
-23. Maoyan Zhu, Nanjing, China.  <myzhu@nigpas.ac.cn>
-24. Anna Żylińska, Warsaw, Poland.  <anna.zylinska@uw.edu.pl>
+**Region** | **Member** | **Institute** | **Email**
+Australia | John Paterson (Chair) | University of New England, Armidale | <jpater20@une.edu.au>
+ | Marissa Betts (Secretary) | University of New England, Armidale | <mbetts7@une.edu.au>
+USA | Jessica Creveling (Vice Chair) | Oregon State University, Corvallis, Oregon | <jessica.creveling@oregonstate.edu>
+ | Nigel Hughes | University of California, Riverside, California | <hughesnc@ucr.edu>
+ | Erik Sperling | Stanford, Stanford, California | <esper@stanford.edu>
+ | Sarah Jacquet | University of Missouri, Columbia, Missouri | <jacquets@missouri.edu>
+ | Sara Pruss | Smith College, Northampton, Massachusetts | <spruss@smith.edu>
+ | Kristin Bergmann | MIT, Massachusetts, Cambridge, Massachusetts | <kdberg@mit.edu>
+Canada | Gabriela Mangano | University of Saskatchewan, Saskatoon | <gabriela.mangano@usask.ca>
+China | Zhiliang Zhang | Nanjing Institute of Geology and Palaeontology, Nanjing | <zhiliang.zhang@nigpas.ac.cn>
+ | Ben Yang | Chinese Academy of Geological Sciences | <benyang@cags.ac.cn>, <yangben8@foxmail.com>
+Korea | Tae-Yoon S. Park | Korea Polar Research Institute, Incheon | <typark@kopri.re.kr>
+Sweden | Graham Budd | Uppsala University, Uppsala | <graham.budd@pal.uu.se>
+ | Timothy Topper | Swedish Museum of Natural History, Stockholm | <timothy.topper@nrm.se>
+ | Artem Kouchinsky | Swedish Museum of Natural History, Stockholm | <artem.kouchinsky@gmail.com>
+France | Sebastien Clausen | Université de Lille, Lille | <sebastien.clausen@univ-lille.fr>
+Spain | Samuel Zamora | Instituto Geológico y Minero de España | <s.zamora@igme.es>
+ | Soren Jensen | Universidad de Extremadura | <soren@unex.es>
+ | Silvia Menendez | Museo Geominero, Instituto Geológico y Minero | <s.menendez@igme.es>
+Denmark | Arne Nielsen | University of Copenhagen, Denmark | <arnet@ign.ku.dk>
+Argentina | Franco Tortello | Universidad Nacional de La Plata | <tortello@fcnym.unlp.edu.ar>
+
 
 ### Honorary Members
  
@@ -139,5 +138,3 @@ P. G. Department Geol., University of Jammu, Jammu 18001, India.
  
 † deceased
  
-## Corresponding members
-See LIST

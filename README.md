@@ -1,5 +1,5 @@
 # Cambrian Subcommission Website
-The small website for the Cambrian subcommission of the International Commission on Stratigraphy, online at <http://Cambrian.stratigraphy.org>.
+The small website for the Cambrian subcommission of the International Commission on Stratigraphy, online at <http://cambrian.stratigraphy.org>.
 
 
 ## Content
@@ -30,7 +30,7 @@ The content of this repository is licensed using the Creative Commons Attributio
 
 See the [local copy of the license deed](LICENSE) for details.
 
-&copy; International Commission on Stratigraphy 2020, all rights reserved
+&copy; International Commission on Stratigraphy 2022, all rights reserved
 
 
 ## Support and contacts
