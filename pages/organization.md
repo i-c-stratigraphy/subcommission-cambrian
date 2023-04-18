@@ -75,7 +75,7 @@ permalink: /organization
 
 ## Members
 
-The ICSC has 24 Voting Members, 11 Honorary Members, and 83 Corresponding Members. The ISCS's voting members were selected to maintain a balance between regional experience and the expertise of various stratigraphic and paleontologic disciplines. Expertise is supplemented by corresponding members from individual countries or regions. Corresponding members are encouraged to communicate with ISCS working groups and the ISCS executive to actively participate in the development of a global stage-level chronostratigraphic classification of the Cambrian System.
+The ICSC has 22 Voting Members, 11 Honorary Members, and 83 Corresponding Members. The ISCS's voting members were selected to maintain a balance between regional experience and the expertise of various stratigraphic and paleontologic disciplines. Expertise is supplemented by corresponding members from individual countries or regions. Corresponding members are encouraged to communicate with ISCS working groups and the ISCS executive to actively participate in the development of a global stage-level chronostratigraphic classification of the Cambrian System.
 
 ### Voting Members
 
