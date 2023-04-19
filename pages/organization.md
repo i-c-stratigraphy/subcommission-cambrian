@@ -75,7 +75,7 @@ permalink: /organization
 
 ## Members
 
-The ICSC has 22 Voting Members, 11 Honorary Members, and 83 Corresponding Members. The ISCS's voting members were selected to maintain a balance between regional experience and the expertise of various stratigraphic and paleontologic disciplines. Expertise is supplemented by corresponding members from individual countries or regions. Corresponding members are encouraged to communicate with ISCS working groups and the ISCS executive to actively participate in the development of a global stage-level chronostratigraphic classification of the Cambrian System.
+The ICSC has 21 Voting Members, 11 Honorary Members, and 83 Corresponding Members. The ISCS's voting members were selected to maintain a balance between regional experience and the expertise of various stratigraphic and paleontologic disciplines. Expertise is supplemented by corresponding members from individual countries or regions. Corresponding members are encouraged to communicate with ISCS working groups and the ISCS executive to actively participate in the development of a global stage-level chronostratigraphic classification of the Cambrian System.
 
 ### Voting Members
 
@@ -90,7 +90,7 @@ USA | Jessica Creveling (Vice Chair) | Oregon State University, Corvallis, Orego
  | Kristin Bergmann | MIT, Massachusetts, Cambridge, Massachusetts | <kdberg@mit.edu>
 Canada | Gabriela Mangano | University of Saskatchewan, Saskatoon | <gabriela.mangano@usask.ca>
 China | Zhiliang Zhang | Nanjing Institute of Geology and Palaeontology, Nanjing | <zhiliang.zhang@nigpas.ac.cn>
- | Ben Yang | Chinese Academy of Geological Sciences | <benyang@cags.ac.cn>, <yangben8@foxmail.com>
+ | Ben Yang | Institute of Geology, Chinese Academy of Geological Sciences | <benyang@cags.ac.cn>, <yangben8@foxmail.com>
 Korea | Tae-Yoon S. Park | Korea Polar Research Institute, Incheon | <typark@kopri.re.kr>
 Sweden | Graham Budd | Uppsala University, Uppsala | <graham.budd@pal.uu.se>
  | Timothy Topper | Swedish Museum of Natural History, Stockholm | <timothy.topper@nrm.se>
