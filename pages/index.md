@@ -14,11 +14,10 @@ Click on the table for more information:
 
 ### Contact Us
 **Chair:**  
-John Paterson
-Palaeoscience Research Center 
-University of New England
-Armidale, NSW 2351
-Australia
+John Paterson  
+Palaeoscience Research Center  
+University of New England  
+Armidale, NSW 2351, Australia  
 <jpater20@une.edu.au>
 
 **Webmaster:**  
