@@ -4,8 +4,7 @@ title: "Links"
 permalink: /links
 ---
 
-# Links
+# Newsletters
+* [ISCS Newsletter #1_Dec 2024](https://github.com/user-attachments/files/19213226/ISCS.Newsletter.1_Dec.2024_FINAL.pdf) 
 
-* [International Commission of Stratigraphy](http://www.stratigraphy.org/)
-* [Subcommission on Ediacaran Stratigraphy](http://ediacaran.stratigraphy.org/)
-* [Subcommission on Ordovician Stratigraphy](http://ordovician.stratigraphy.org/)
+* [ISCS Newsletter #2_Mar 2025](https://github.com/user-attachments/files/19213227/ISCS.Newsletter.2_Mar.2025.pdf)
