@@ -13,13 +13,13 @@ Click on the table for more information:
 [![](images/2013GSSPs.jpg)](/gssps)
 
 ### Contact Us
-**Secretariate:**  
-Per Ahlberg  
-Department of Geology  
-GeoBiosphere Science Centre  
-Lund University  
-Lund, Sweden  
-<per.ahlberg@geol.lu.se>
+**Chair:**  
+John Paterson  
+Palaeoscience Research Centre
+School of Environmental & Rural Science
+University of New England
+Armidale, NSW 2351, Australia 
+<jpater20@une.edu.au>
 
 
 **Webmaster:**  
